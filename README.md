@@ -7,11 +7,18 @@ Currently, two official plugins are available:
 -vite
 -configure TailwindCss
   
+  #NetFlix Gpt
+  -vite
+  -configured Tailwind Css
+  -Header
+  -Login Page
+    -Sign In
+    -Sign up
 
   #Features
   -Sign Page(Brfore Authetication)
   -Browes page(after authentication)
-     -header
+     -Header
      -Main movie
        -trailer in bg
        -title-description
